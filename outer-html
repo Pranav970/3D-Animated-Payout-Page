@@ -1,0 +1,44 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#151515">
+
+    <title>Plink - Create payment links and send them to your clients</title>
+    <meta name="description" content="Easily create payment requests and send to your customers via e-mail, SMS or by copy-pasting the link.">
+
+    <link rel="icon" type="image/png" href="/assets/images/frontpage/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/assets/images/frontpage/favicon/favicon-64x64.png" sizes="64x64">
+    <link rel="apple-touch-icon" href="/assets/images/frontpage/favicon/favicon-180x180.png">
+    <link rel="shortcut icon" href="/assets/images/frontpage/favicon/favicon-32x32.png">
+    <meta property="og:logo" content="/assets/images/frontpage/favicon/favicon-180x180.png" size="180x180">
+
+    <meta property="og:url" content="https://useplink.com/en/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Plink - Create payment links and send them to your clients">
+    <meta property="og:description" content="Easily create payment requests and send to your customers via e-mail, SMS or by copy-pasting the link.">
+    <meta property="og:image" content="/assets/images/frontpage/share.png">
+    <meta property="og:site_name" content="Plink">
+    <meta property="og:locale" content="en-EN">
+
+                                    <meta property="og:locale:alternate" content="nl-NL">
+                                <meta property="og:locale:alternate" content="de-DE">
+                                <meta property="og:locale:alternate" content="fr-FR">
+            
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@MolliePayments">
+    <meta name="twitter:title" content="Plink - Create payment links and send them to your clients">
+    <meta name="twitter:description" content="Easily create payment requests and send to your customers via e-mail, SMS or by copy-pasting the link.">
+    <meta name="twitter:image" content="/assets/images/frontpage/share.png">
+
+    <meta name="robots" content="index,follow">
+
+    <link rel="stylesheet" id="stylesheet-css" href="/assets/frontpage.css" type="text/css" media="all">
+    <link rel="canonical" href="https://useplink.com/en/">
+    <link rel="shortlink" href="https://useplink.com/en/">
+
+                                    <link rel="alternate" href="https://useplink.com/nl/" hreflang="nl">
+                                <link rel="alternate" href="https://useplink.com/de/" hreflang="de">
+                                <link rel="alternate" href="https://useplink.com/fr/" hreflang="fr">
+            </head>
