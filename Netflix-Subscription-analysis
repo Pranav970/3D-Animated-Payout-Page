@@ -1,0 +1,58 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOzZ32hfGqaWjGeBb+ctG40",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Pranav970/3D-Animated-Payout-Page/blob/main/Netflix-Subscription-analysis\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import pandas as pd\n",
+        "import numpy as np\n",
+        "import matplotlib.pyplot as plt\n",
+        "import plotly.graph_objects as go\n",
+        "import plotly.express as px\n",
+        "import plotly.io as pio\n",
+        "pio.templates.default = \"plotly_white\"\n",
+        "from statsmodels.tsa.arima.model import ARIMA\n",
+        "from statsmodels.graphics.tsaplots import plot_acf, plot_pacf"
+      ],
+      "metadata": {
+        "id": "QSTqxYFbDOX0"
+      },
+      "execution_count": 1,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "-iZxd1BtDeGN"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
